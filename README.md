@@ -54,6 +54,7 @@ Pronto! Você pode visualizar o Podcastr através do endereço http://localhost:
 - [Next.js](https://nextjs.org/)
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [SASS](https://sass-lang.com/)
 
 ---
