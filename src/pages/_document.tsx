@@ -1,5 +1,8 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
+// _document é usado para personalizar o HTML da aplicação
+// fica por volta de toda a aplicação, mas é chamado uma única vez
+// toda vez que trocamos de rota, tudo no _app é carregado do total zero
 export default class MyDocument extends Document {
   render() {
     return (
